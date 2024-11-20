@@ -48,15 +48,15 @@ global.sdc = '-' //Fill it out using the Discord link, if there is one, just lea
 global.snh = 'https://youtube.com/@Temo_FC' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
+global.pdana = '08573617354' //Nomor Danamu
 global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '967779589581' //Nomor Bot
-global.nomorown = '967779589581' //Nomor Owner
-global.namebot = '( تـيـمـون )' //Nama Bot
-global.nameown = '( أم تيمون )' // Nama Owner
+global.nomorbot = '212713542982' //Nomor Bot
+global.nomorown = '212625457341' //Nomor Owner
+global.namebot = '( كاباني )' //Nama Bot
+global.nameown = '( كاباني )' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
@@ -65,11 +65,11 @@ global.org = 'PASTE_YOUR_ORG_HERE'   // Get you Org-Key from 'https://platform.o
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['96891103640', '( تـيـمـون )', true] //Replace your number with your name
+  ['212625457341', '( كاباني )', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['96891103640','967779589581','2002'] // Premium user is not here to add it, type .addprem @ user 10
+global.prems = ['212625457341','212713542981','212626817129'] // Premium user is not here to add it, type .addprem @ user 10
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.lolkeysapi = ['BrunoSobrino']
@@ -103,11 +103,11 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 تـيـمـون 」' //Main Watermark
+global.wm = '「 كاباني 」' //Main Watermark
 global.wm2 = '( ✨🐈‍⬛ )'
 global.wm3 = '2022'
 global.footerTXT = `ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +96891103640`
-global.fig = `Follow me on instagram:\n\t\tinstagram.com/bac1_1hira`
+global.fig = `فقط صلي على النبي:\n\t\tشكرا لاستخدامك البوت`
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
 global.titlebot = '🐈‍⬛ ┊ ɪᴋʀᴀᴛᴏs ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
@@ -178,9 +178,9 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '( تـيـمـون )'
+global.stickpack = '( كاباني عمك )'
 global.stickauth = `「 ✨🐈‍⬛ 」`
-global.packname = 'القط الأسود'
+global.packname = 'كاباني'
 global.packname2 = '🐈‍⬛✨'
 
 global.multiplier = 38 // The higher, The harder levelup
