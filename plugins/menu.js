@@ -365,7 +365,7 @@ const listMessage = {
     itemCount : 2022,
     status: 1,
     surface : 1,
-    message: '[❗] Loading Menu ' + '...\n Be patient Sis ^ω^', 
+    message: '[❗] جاري تنزيل القائمة ' + '...\n انتظر ^ω^', 
     orderTitle: `▮Menu ▸`,
     thumbnail: await (await fetch(flaaa + 'Loading')).buffer(), //Gambarnye
     sellerJid: '0@s.whatsapp.net' 
@@ -503,7 +503,7 @@ const listMessage = {
 }
 handler.help = ['menu', 'help', '?']
 handler.tags = ['main']
-handler.command = /^(3554525555|755458558|\?)$/i
+handler.command = /^(اوامر|menu|\?)$/i
 
 handler.register = false
 handler.exp = 3
@@ -538,16 +538,16 @@ function ucapan() {
   const time = moment.tz('Asia/Karachi').format('HH')
   let res = "Why haven\'t you slept yet?? 🥱"
   if (time >= 4) {
-    res = "Morning 🌄"
+    res = "السلام عليكم 🌄"
   }
   if (time >= 10) {
-    res = "Day ☀️"
+    res = "السلام عليكم ☀️"
   }
   if (time >= 15) {
-    res = "Afternoon 🌇"
+    res = "السلام عليكم 🌇"
   }
   if (time >= 18) {
-    res = "night 🌙"
+    res = "السلام عليكم 🌙"
   }
   return res
 }
